@@ -7,4 +7,4 @@
 # building-material-managment-system
 this is my 2nd year project  
 
-sorry for mixing the images and the php files and also javascript files
+sorry for mixing the images and the php files and also javascript files  but if you want you can separate it 
